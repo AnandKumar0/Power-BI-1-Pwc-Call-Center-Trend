@@ -6,6 +6,9 @@
 
 **Tool Used:** Power BI Desktop
 
+![Call Center Dashboard](
+
+
 **Data Source:** Call Center Dataset (CSV, 5000 records)
 
 This project demonstrates data visualization and dashboarding skills commonly used by Data Analysts to transform raw call center data into actionable business insights. It replicates a real-world call center performance monitoring scenario, covering agent performance, customer satisfaction, call resolution, and call volume trends.
