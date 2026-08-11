@@ -81,7 +81,7 @@ Line chart showing call volume by day of week (Mon–Sun) — used to identify t
 - **Agent Performance** — Answered speed and satisfaction vary noticeably across agents (Becky's answered speed of 65.33s vs Joe's 70.99s), highlighting coaching opportunities.
 - **Call Abandonment** — Nearly 1 in 5 calls (18.92%) are abandoned, indicating a queue/staffing gap during peak periods.
 - **Satisfaction Distribution** — The majority of calls fall into "Normal" and "Satisfied" buckets, but a meaningful share (Not Served + Very Dissatisfied + Dissatisfied) represents a churn/reputation risk.
-- **Peak Hours** — Call volume peaks around 11:00 and again in the afternoon, useful for shift planning.
+- **Peak Hours** — Call volume peaks around 10:00 to till afternoon, useful for shift planning.
 - **Peak Days** — Monday and Saturday see the highest call volumes, while Tuesday is consistently the quietest.
 
 ## Conclusion
