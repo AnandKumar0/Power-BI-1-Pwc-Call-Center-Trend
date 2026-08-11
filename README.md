@@ -6,7 +6,8 @@
 
 **Tool Used:** Power BI Desktop
 
-![Call Center Dashboard](
+![Call Center Dashboard](https://github.com/AnandKumar0/Power-BI-1-Pwc-Call-Center-Trend/blob/main/Screenshot%202026-08-11%20174545.png)
+
 
 
 **Data Source:** Call Center Dataset (CSV, 5000 records)
